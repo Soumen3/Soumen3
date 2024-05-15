@@ -49,7 +49,7 @@
 <h3>Other</h3>
 <p>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-6DD95C?style=for-the-badge&logo=git&logoColor=F83D0B" alt="git" />
+    <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=F83D0B" alt="git" />
 </p>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
