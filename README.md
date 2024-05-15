@@ -4,12 +4,14 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="200" alt="DP" src="https://raw.githubusercontent.com/Soumen3/Soumen3/main/profile.png">
+  <img align="right" width="135" alt="DP" src="https://raw.githubusercontent.com/Soumen3/Soumen3/main/dp.png">
   <a href="https://github.com/Soumen3?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/Soumen3?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, I'm Soumen Samanta</h3>
-  <p>I am Full Stack Web Developer focused on backend.  </P> 
+  <p>I am Full Stack Web Developer focused on backend. <br> 
+    I am a student of University of Engineering and Management, Kolkata, pursuing MCA.
+  </P> 
 </div>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
