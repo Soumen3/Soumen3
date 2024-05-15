@@ -1,19 +1,15 @@
 
 <!----------------------------------- Banner - GeekyShows ------------------------------------>
-[![MasterHead](https://github.com/Soumen3/Soumen3/blob/main/poster.png?raw=true)](#)
+[![MasterHead](https://raw.githubusercontent.com/Soumen3/Soumen3/main/poster.png)](#)
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/Soumen3/Soumen3/main/profile.png">
+  <img align="right" width="200" alt="DP" src="https://raw.githubusercontent.com/Soumen3/Soumen3/main/profile.png">
   <a href="https://github.com/geekyshow1?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
   </a>
-  <h3>Hi, I'm Rajesh Kumar</h3>
-  <p>I am Full Stack Web and Android App Developer. I am also an Educator. I teach on
-    <a href="https://www.youtube.com/user/GeekyShow1">
-        <img align="center" src="https://img.shields.io/badge/GeekyShows Youtube Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/user/GeekyShow1" />
-    </a> having 400k+ Subscribers.
-  </P> 
+  <h3>Hi, I'm Soumen Samanta</h3>
+  <p>I am Full Stack Web Developer.  </P> 
 </div>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
