@@ -9,7 +9,7 @@
      <img align="right" src="https://img.shields.io/github/followers/Soumen3?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, I'm Soumen Samanta</h3>
-  <p>I am Full Stack Web Developer.  </P> 
+  <p>I am Full Stack Web Developer focused on backend.  </P> 
 </div>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -19,10 +19,9 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
+    <img src="https://img.shields.io/badge/C++-EA9B7D?style=for-the-badge&logo=Cplusplus&logoColor=blue" alt="C++" />
+    <img src="https://img.shields.io/badge/C-BAEA7D?style=for-the-badge&logo=C&logoColor=blue" alt="C" />
 </p>
 <h3>Frontend Framework and Lib</h3>
 <p>
