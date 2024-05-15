@@ -5,8 +5,8 @@
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <img align="right" width="200" alt="DP" src="https://raw.githubusercontent.com/Soumen3/Soumen3/main/profile.png">
-  <a href="https://github.com/geekyshow1?tab=followers">
-     <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
+  <a href="https://github.com/Soumen3?tab=followers">
+     <img align="right" src="https://img.shields.io/github/followers/Soumen3?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, I'm Soumen Samanta</h3>
   <p>I am Full Stack Web Developer.  </P> 
