@@ -64,7 +64,7 @@
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2><i>My GitHub Stats</i></h2>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumen3&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Soumen3" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumen3&theme=dark&show_icons=true&hide=issues,contribs&border_redius=0&include_all_commits=true" alt="Soumen3" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumen3&layout=compact&border_radius=0&theme=dark" alt="Soumen3" height="139" />
 </p>
 
