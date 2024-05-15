@@ -54,27 +54,27 @@
 
 <h2><i>Let's Connect</i></h2>
 <p align="left" >
-   <a href="https://twitter.com/Soumen9382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekyshow1" height="30" width="40" /></a>
+   <a href="https://twitter.com/Soumen9382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Soumen3" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/soumen-samanta-029aaa239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irenicraj" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/soumen.programmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekyshow" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/soumen.programmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekyshow1" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/soumen.programmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Soumen3" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/soumen.programmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Soumen3" height="30" width="40" /></a>
   <a href="https://soumen3.pythonanywhere.com/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_p-512.png" alt="portfolio" height="30" width="30" /></a>
 </p>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2><i>My GitHub Stats</i></h2>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumen3&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="geekyshow1" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumen3&layout=compact&border_radius=0&theme=dark" alt="geekyshow1" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumen3&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Soumen3" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumen3&layout=compact&border_radius=0&theme=dark" alt="Soumen3" height="139" />
 </p>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/geekyshow1">
-        <img src="https://komarev.com/ghpvc/?username=geekyshow1&label=Profile%20views&color=0e75b6&style=flat" alt="geekyshow1" />
+    <a href="https://github.com/Soumen3">
+        <img src="https://komarev.com/ghpvc/?username=Soumen3&label=Profile%20views&color=0e75b6&style=flat" alt="Soumen3" />
     </a>
-    <a href="https://github.com/geekyshow1?tab=followers">
-        <img src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
+    <a href="https://github.com/Soumen3?tab=followers">
+        <img src="https://img.shields.io/github/followers/Soumen3?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
