@@ -37,6 +37,8 @@
 <h3>Backend Framework and Lib</h3>
 <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
+    <img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=Pandas&logoColor=blue" alt="pandas" />
+    <img src="https://img.shields.io/badge/numpy-CED0CD?style=for-the-badge&logo=numpy&logoColor=blue" alt="django" />
 </p>
 <h3>Database</h3>
 <p>
