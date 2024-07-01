@@ -38,6 +38,7 @@
 <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
     <img src="https://img.shields.io/badge/Rest_framework-red?style=for-the-badge&logo=rest-api&logoColor=white" alt="restapi" />
+    <img src="https://img.shields.io/badge/Django_channels-563D7C?style=for-the-badge&logo=" alt="restapi" />
 </p>
 <h3>Data Science</h3>
 <p>
