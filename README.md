@@ -53,10 +53,15 @@
     <img src="https://img.shields.io/badge/postgresql-00B4E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
   
 </p>
+<h3>Version Control</h3>
+<p>
+    <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=F83D0B" alt="git" />
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" alt="github" />
+    <img src="https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab&logoColor=F83D0B" alt="gitlab" />
+</p>
 <h3>Other</h3>
 <p>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=F83D0B" alt="git" />
 </p>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
