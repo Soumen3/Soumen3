@@ -10,7 +10,7 @@
   </a>
   <h3>Hi, I'm Soumen Samanta</h3>
   <p>I am Full Stack Web Developer focused on backend. <br> 
-    I am a student of University of Engineering and Management, Kolkata, pursuing MCA.
+    I've completed my MCA from University of Engineering and Management, Kolkata.
   </P> 
 </div>
 
