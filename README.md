@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
     <img src="https://img.shields.io/badge/Rest_framework-red?style=for-the-badge&logo=rest-api&logoColor=white" alt="restapi" />
     <img src="https://img.shields.io/badge/Django_channels-563D7C?style=for-the-badge&logo=" alt="restapi" />
+    <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 <h3>Data Science</h3>
 <p>
@@ -53,6 +54,13 @@
     <img src="https://img.shields.io/badge/postgresql-00B4E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
   
 </p>
+<h3>Cloud</h3>
+<p>
+    <img src="https://img.shields.io/badge/AWS-f79400?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/appwrite-black?style=for-the-badge&logo=appwrite&logoColor=fd3e73" alt="appwrite" />
+    <img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
+  
+</p>
 <h3>Version Control</h3>
 <p>
     <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=F83D0B" alt="git" />
@@ -62,6 +70,7 @@
 <h3>Other</h3>
 <p>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+    <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue" alt="docker" />
 </p>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
