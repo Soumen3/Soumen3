@@ -18,59 +18,63 @@
 <h2>Tech Stack</h2>
 <h3>Languages</h3>
 <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
     <img src="https://img.shields.io/badge/C++-EA9B7D?style=for-the-badge&logo=Cplusplus&logoColor=blue" alt="C++" />
     <img src="https://img.shields.io/badge/C-BAEA7D?style=for-the-badge&logo=C&logoColor=blue" alt="C" />
 </p>
 <h3>Frontend Framework and Lib</h3>
 <p>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/Redux Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Reactjs" />
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material-ui" />
+    <img src="https://img.shields.io/badge/Redux Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="ReactRouter" />
+    <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.JS" />
 </p>
 <h3>Backend Framework and Lib</h3>
 <p>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
-    <img src="https://img.shields.io/badge/Rest_framework-red?style=for-the-badge&logo=rest-api&logoColor=white" alt="restapi" />
-    <img src="https://img.shields.io/badge/Django_channels-563D7C?style=for-the-badge&logo=" alt="restapi" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />
+    <img src="https://img.shields.io/badge/Rest_framework-red?style=for-the-badge&logo=rest-api&logoColor=white" alt="RestAPI" />
+    <img src="https://img.shields.io/badge/Django_channels-563D7C?style=for-the-badge&logo=" alt="Django Channels" />
     <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </p>
 <h3>Data Science</h3>
 <p>
-    <img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=Pandas&logoColor=blue" alt="pandas" />
-    <img src="https://img.shields.io/badge/numpy-CED0CD?style=for-the-badge&logo=numpy&logoColor=blue" alt="django" />
+    <img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=Pandas&logoColor=blue" alt="Pandas" />
+    <img src="https://img.shields.io/badge/numpy-CED0CD?style=for-the-badge&logo=numpy&logoColor=blue" alt="Numpy" />
 </p>
 <h3>Database</h3>
 <p>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
-    <img src="https://img.shields.io/badge/postgresql-00B4E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" />
+    <img src="https://img.shields.io/badge/postgresql-00B4E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql" />
   
 </p>
 <h3>Cloud</h3>
 <p>
     <img src="https://img.shields.io/badge/AWS-f79400?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/appwrite-black?style=for-the-badge&logo=appwrite&logoColor=fd3e73" alt="appwrite" />
-    <img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
+    <img src="https://img.shields.io/badge/appwrite-black?style=for-the-badge&logo=appwrite&logoColor=fd3e73" alt="Appwrite" />
+    <img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   
 </p>
 <h3>Version Control</h3>
 <p>
-    <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=F83D0B" alt="git" />
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" alt="github" />
-    <img src="https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab&logoColor=F83D0B" alt="gitlab" />
+    <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=F83D0B" alt="Git" />
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" alt="Github" />
+    <img src="https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab&logoColor=F83D0B" alt="Gitlab" />
 </p>
-<h3>Other</h3>
+<h3>Other Tools</h3>
 <p>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue" alt="docker" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker" />
+    <img src="https://img.shields.io/badge/redis-white?style=for-the-badge&logo=redis&logoColor=red" alt="Redis" />
+    <img src="https://img.shields.io/badge/rabbitmq-efefef?style=for-the-badge&logo=rabbitmq&logoColor=red" alt="RabbitMQ" />
 </p>
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
