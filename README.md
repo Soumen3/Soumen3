@@ -4,7 +4,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="135" alt="DP" src="https://raw.githubusercontent.com/Soumen3/Soumen3/main/dp.png">
+  <img align="right" width="135" alt="DP" src="https://raw.githubusercontent.com/Soumen3/Soumen3/main/dp1.png">
   <a href="https://github.com/Soumen3?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/Soumen3?label=Followers&style=social" alt="followers-count">
   </a>
