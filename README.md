@@ -1,6 +1,6 @@
 
 <!----------------------------------- Banner - GeekyShows ------------------------------------>
-[![MasterHead](https://raw.githubusercontent.com/Soumen3/Soumen3/main/Banner.png)](#)
+[![MasterHead](https://raw.githubusercontent.com/Soumen3/Soumen3/main/Banner1.png)](#)
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
